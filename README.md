@@ -1,9 +1,9 @@
 # Project Premiere DYNABIC
 
-This is the website of the research project "Premiere DYNABIC", project no. 28PHE/2024 
+This is the website of the research project "Premiere DYNABIC" 
 
 ## About
-The project is funded by UEFISCDI.
+Funding agency: UEFISCDI, project no. 28PHE/2024
 
 Project Manager: Alin Stefanescu
 
