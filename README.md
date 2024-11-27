@@ -5,7 +5,7 @@ This is the website of the research project "Premiere DYNABIC"
 ## About
 Funding agency: [UEFISCDI](https://uefiscdi.gov.ro/premiere-orizont-europa-echipe-de-cercetare), project no. 28PHE/2024
 
-Project Manager: Alin Stefanescu
+Project Manager: [Alin Stefanescu](https://alin.stefanescu.eu)
 
 Team: Ciprian Paduraru, Rares Cristea
 
