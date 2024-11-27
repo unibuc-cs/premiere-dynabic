@@ -1,15 +1,19 @@
 # Project Premiere DYNABIC
 
-This is the website of the research project "Premiere DYNABIC", project no. 28PHE/2024, 
+This is the website of the research project "Premiere DYNABIC", project no. 28PHE/2024 
 
 ## About
 The project is funded by UEFISCDI.
 
 Project Manager: Alin Stefanescu
 
+Team: Ciprian Paduraru, Rares Cristea
+
 Host institution: University of Bucharest
 
 Project duration: 2024-2025
+
+Goal: AI-based methods for game testing
 
 ## Results
 - C. Paduraru, M. Cernat, A. Stefanescu. Automated evaluation of game content display using deep learning. In Proc. of the 28th Int. Conf. on Evaluation and Assessment in Software Engineering (EASE'24), pp. 421-424, ACM, 2024.
