@@ -17,7 +17,7 @@ Project budget: 63,700 RON
 
 Scientific topic: AI-based methods for game testing
 
-The scope of the project is to develop and evaluating techniques that automate visual analysis, test generation, and feedback processing, useful for game testing 
+The scope of the project is to develop and evaluate techniques that automate visual analysis, test generation, and feedback processing, useful for game testing 
 
 ## Results
 
